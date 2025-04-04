@@ -193,7 +193,3 @@ rm -rf ~/stable-diffusion-webui
 Built for performance, privacy, and freedom.  
 No limits. No filters. Full control.  
 ✌️
-```
-
----
-
