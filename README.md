@@ -1,11 +1,7 @@
-Ah got it — you want the full `README.md` as one clean block of code you can **copy-paste into your editor** or GitHub repo in one shot. Here it is, exactly as you'd want it for your project:
-
----
-
 ```markdown
-# 🧠 Local Stable Diffusion WebUI on Mac M2 (DreamShaper NSFW Build)
+# 🧠 Local Stable Diffusion WebUI on Mac M2 (DreamShaper Build)
 
-This is my personal setup for running **Stable Diffusion WebUI** (AUTOMATIC1111) locally on a **Mac mini M2 (16GB RAM)**, fully accelerated via **Apple MPS**, with support for **NSFW photorealistic generation** using the **DreamShaper v8** model.
+This is my personal setup for running **Stable Diffusion WebUI** (AUTOMATIC1111) locally on a **Mac mini M2 (16GB RAM)**, fully accelerated via **Apple MPS**, with support for **photorealistic generation** using the **DreamShaper v8** model.
 
 Everything is installed inside a **Python virtual environment** (no system pollution), GPU-accelerated, uncensored, and ready to generate stunning, high-detail AI images offline.
 
@@ -16,7 +12,7 @@ Everything is installed inside a **Python virtual environment** (no system pollu
 - ✅ AUTOMATIC1111 WebUI (latest build)
 - ✅ Python 3.10 + venv
 - ✅ Apple Silicon GPU acceleration (MPS)
-- ✅ DreamShaper v8 model (NSFW-capable, photorealistic)
+- ✅ DreamShaper v8 model (photorealistic)
 - ✅ Clean virtual environment install
 - ✅ Safe to remove (contained in one folder)
 - ✅ Launches locally at `http://localhost:7860`
